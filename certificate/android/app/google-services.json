@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001822198345",
+    "project_id": "certificate-generator-c27b4",
+    "storage_bucket": "certificate-generator-c27b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001822198345:android:d804ab39609f7f16703d98",
+        "android_client_info": {
+          "package_name": "com.example.certificate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001822198345-hmiu77bllm08rdo42v9l496dlgahk3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXc1vrrQDpeMajtBJ1sHtcVm-QmIrtPsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001822198345-hmiu77bllm08rdo42v9l496dlgahk3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
