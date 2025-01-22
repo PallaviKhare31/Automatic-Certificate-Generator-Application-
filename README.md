@@ -1,2 +1,3 @@
 # Automatic-Certificate-Generator-Application-
 The Automatic Certificate Generator app automates the creation and management of professional certificates, enabling users to quickly design and issue personalized certificates for events, courses, and more within minutes. It offers a wide range of pre-designed templates that can be customized with participant details, logos, text, and more. Supporting bulk certificate creation, multi-format export options, and compatibility across all devices and operating systems, the app ensures a seamless, hassle-free experience that saves time with minimal effort.
+ 
